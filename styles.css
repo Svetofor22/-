@@ -1,4 +1,4 @@
-.title {
+.main-content__title {
        font-family: Roboto;
 }
 .wrapper {
@@ -14,10 +14,10 @@
  display: inline-block;
  border: dashed 1px red;
 }
-<header class="header">
- </header><!--
- --><section class="main-section">
- </section>
  .logo {
   padding: 40px 0;
  }
+.menu__item {
+  padding: 0 13px;
+  border: dashed 1px red;
+}
