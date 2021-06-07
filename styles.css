@@ -28,3 +28,12 @@
 .menu__item:last-child {
  padding-right: 0;
 }
+font: bold 24px/31px pt_serif, arial, helvetica, sans-serif;
+.logo {
+ padding: 40px 0;
+// font: bold 24px/31px pt_serif, arial, helvetica, sans-serif;
+ width: 190px;
+ height: 35px;
+ border: dashed 1px red;
+ background: url('img/logo.svg');
+}
